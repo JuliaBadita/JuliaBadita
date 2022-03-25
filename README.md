@@ -1,11 +1,14 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋</h1>
+<h2 align="center">My name is Julia Badita</h2>
 
+## Languages
+HTML, CSS, SASS, TAILWIND
 
-<!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning **JavaScript, HTML5, CSS3, SASS, REACT, TAILWIND**
+## Tools 
+Trello, Miro, Visual Studio Code, Ubuntu
+
+- 🌱 I’m currently learning **JavaScript REACT**
 - 👯 I’m looking to collaborate on **front-end projects**
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- 💬 Ask me about ... -->
 - 😄 Pronouns: **She/her**
 - ⚡ What I like to do: **I like drawing, art, video-games, cinema and coding of course**
 
