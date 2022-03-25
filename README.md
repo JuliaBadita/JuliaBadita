@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&width=900&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=350&section=header&animation=fadeIn)
 <h1 align="center"> Hi there, I'm Julia 👋</h1>
 <h2 align="center">Front-End Developer Junior</h2>
 
@@ -20,3 +20,5 @@ Trello, Miro, Visual Studio Code, Ubuntu
 
 <!-- [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=JuliaBadita&theme=yeblu)](https://github.com/JuliaBadita) -->
 `![JuliaBadita's Github stats](https://github-readme-stats.vercel.app/api?username=JuliaBadita&show_icons=true&theme=yeblu)
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=350&section=footer&animation=fadeIn)
