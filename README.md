@@ -1,11 +1,13 @@
-<h1 align="center"> Hi there 👋</h1>
-<h2 align="center">My name is Julia Badita</h2>
+<h1 align="center"> Hi there, I'm Julia 👋</h1>
+<h2 align="center">Front-End Developer</h2>
 
-<h3>Languages</h3>
+<h3 font-weight="bold">LANGUAGES</h3>
 HTML, CSS, SASS, TAILWIND
 
-## Tools 
+<h3 font-weight="bold">TOOLS</h3>
 Trello, Miro, Visual Studio Code, Ubuntu
+
+<hr>
 
 - 🌱 I’m currently learning **JavaScript REACT**
 - 👯 I’m looking to collaborate on **front-end projects**
