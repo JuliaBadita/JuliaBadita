@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋</h1>
 <h2 align="center">My name is Julia Badita</h2>
 
-## Languages
+<h3>Languages</h3>
 HTML, CSS, SASS, TAILWIND
 
 ## Tools 
