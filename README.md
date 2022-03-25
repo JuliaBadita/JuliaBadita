@@ -16,7 +16,7 @@ Trello, Miro, Visual Studio Code, Ubuntu
 - ⚡ What I like to do: **I like drawing, art, video-games, cinema and coding of course**
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaBadita&layout=compact&theme=yeblu)](https://github.com/JuliaBadita)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaBadita&layout=compacttheme=react&show_icons=true&include_all_commits=true)](https://github.com/JuliaBadita)
 
 <!-- [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=JuliaBadita&theme=yeblu)](https://github.com/JuliaBadita) -->
 `![JuliaBadita's Github stats](https://github-readme-stats.vercel.app/api?username=JuliaBadita&show_icons=true&theme=yeblu)
