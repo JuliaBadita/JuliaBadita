@@ -1,5 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
 <h1 align="center"> Hi there, I'm Julia 👋</h1>
-<h2 align="center">Front-End Developer</h2>
+<h2 align="center">Front-End Developer Junior</h2>
 
 <h3 font-weight="bold">LANGUAGES</h3>
 HTML, CSS, SASS, TAILWIND
@@ -9,7 +10,7 @@ Trello, Miro, Visual Studio Code, Ubuntu
 
 <hr>
 
-- 🌱 I’m currently learning **JavaScript REACT**
+- 🌱 I’m currently learning **JavaScript, REACT**
 - 👯 I’m looking to collaborate on **front-end projects**
 - 😄 Pronouns: **She/her**
 - ⚡ What I like to do: **I like drawing, art, video-games, cinema and coding of course**
