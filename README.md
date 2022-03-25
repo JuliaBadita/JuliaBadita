@@ -13,7 +13,7 @@ Trello, Miro, Visual Studio Code, Ubuntu
 - 🌱 I’m currently learning **JavaScript, REACT**
 - 👯 I’m looking to collaborate on **front-end projects**
 - 😄 Pronouns: **She/her**
-- ⚡ What I like to do: **I like drawing, art, video-games, cinema and coding of course**
+- ⚡ What I like: **drawing, art, video-games, cinema and coding of course**
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaBadita&layout=compact&theme=react)](https://github.com/JuliaBadita)
