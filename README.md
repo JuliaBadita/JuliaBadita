@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=190&section=header&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&animation=fadeIn)
 <h1 align="center"> Hi there, I'm Julia 👋</h1>
 <h2 align="center">Front-End Developer Junior</h2>
 
