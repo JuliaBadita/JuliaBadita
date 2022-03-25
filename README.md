@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-Badita&layout=compact&theme=yeblu)](https://github.com/JuliaBadita)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaBadita&layout=compact&theme=yeblu)](https://github.com/JuliaBadita)
 
-<!-- [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=Julia-Badita&theme=yeblu)](https://github.com/JuliaBadita) -->
-`![Julia-Badita's Github stats](https://github-readme-stats.vercel.app/api?username=Julia-Badita&show_icons=true&theme=yeblu)j
+<!-- [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=JuliaBadita&theme=yeblu)](https://github.com/JuliaBadita) -->
+`![JuliaBadita's Github stats](https://github-readme-stats.vercel.app/api?username=JuliaBadita&show_icons=true&theme=yeblu)
