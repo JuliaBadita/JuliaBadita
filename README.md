@@ -19,6 +19,6 @@ Trello, Miro, Visual Studio Code, Ubuntu
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaBadita&layout=compact&theme=react)](https://github.com/JuliaBadita)
 
 <!-- [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=JuliaBadita&theme=react&show_icons=true&include_all_commits=true)](https://github.com/JuliaBadita) -->
-`![JuliaBadita's Github stats](https://github-readme-stats.vercel.app/api?username=JuliaBadita&theme=react&show_icons=true&include_all_commits=true)
+![JuliaBadita's Github stats](https://github-readme-stats.vercel.app/api?username=JuliaBadita&theme=react&show_icons=true&include_all_commits=true)
 
 <!-- ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=190&section=footer&animation=fadeIn) -->
