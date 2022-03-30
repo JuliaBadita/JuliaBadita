@@ -10,7 +10,7 @@ Trello, Miro, Visual Studio Code, Ubuntu
 
 <hr>
 
-- 🌱 I’m currently learning **JavaScript, REACT**
+- 🌱 I’m currently learning **JavaScript, React**
 - 👯 I’m looking to collaborate on **front-end projects**
 - 😄 Pronouns: **She/her**
 - ⚡ What I like: **drawing, art, video-games, cinema and coding of course**
