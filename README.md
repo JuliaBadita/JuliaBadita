@@ -6,7 +6,7 @@
 HTML, CSS, SASS, TAILWIND
 
 <h3 font-weight="bold">TOOLS</h3>
-Trello, Miro, Visual Studio Code, Ubuntu
+Trello, Miro, Visual Studio Code, Ubuntu, Git 
 
 <hr>
 
