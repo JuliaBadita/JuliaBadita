@@ -10,8 +10,8 @@ Trello, Miro, Visual Studio Code, Ubuntu, Git
 
 <hr>
 
-- 🌱 I’m currently learning **JavaScript, React**
-- 👯 I’m looking to collaborate on **front-end** or **fullstack projects**
+- 🌱 I’m currently learning **JavaScript, PHP, MySQL**
+- 👯 Working at AV Prod 
 - 😄 Pronouns: **She/her**
 - ⚡ What I like: **drawing, art, video-games, cinema and coding of course**
 
