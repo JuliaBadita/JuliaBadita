@@ -10,7 +10,7 @@ Trello, Miro, Visual Studio Code, Ubuntu, Git
 
 <hr>
 
-- 🌱 I’m currently learning **JavaScript, PHP, MySQL**
+- 🌱 I’m currently learning **jQuery, PHP**
 - 👯 Working at AV Prod 
 - 😄 Pronouns: **She/her**
 - ⚡ What I like: **drawing, art, video-games, cinema and coding of course**
