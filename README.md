@@ -12,7 +12,6 @@ Trello, Miro, Visual Studio Code, Ubuntu, Git, phpMyAdmin
 
 - 🌱 I’m still currently learning **jQuery, PHP, MySQL, Javascript**
 - 👯 Working at **AV Prod** in the event sector
-- 😄 Pronouns: **She/her**
 - ⚡ What I like: **drawing, art, video-games, cinema**
 
 
