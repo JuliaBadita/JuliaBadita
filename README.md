@@ -1,19 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&animation=fadeIn)
 <h1 align="center"> Hi there, I'm Julia 👋</h1>
-<h2 align="center">Junior Web Developer</h2>
+<h2 align="center">Junior Full Stack Developer</h2>
 
 <h3 font-weight="bold">LANGUAGES</h3>
-HTML, CSS, SASS, TAILWIND
+PHP, MySQL, Wordpress, jQuery, HTML, CSS, SASS, TAILWIND, BOOTSTRAP
 
 <h3 font-weight="bold">TOOLS</h3>
-Trello, Miro, Visual Studio Code, Ubuntu, Git 
+Trello, Miro, Visual Studio Code, Ubuntu, Git, phpMyAdmin
 
 <hr>
 
-- 🌱 I’m currently learning **jQuery, PHP**
-- 👯 Working at AV Prod 
+- 🌱 I’m still currently learning **jQuery, PHP, MySQL, Javascript**
+- 👯 Working at **AV Prod** in the event sector
 - 😄 Pronouns: **She/her**
-- ⚡ What I like: **drawing, art, video-games, cinema and coding of course**
+- ⚡ What I like: **drawing, art, video-games, cinema**
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaBadita&layout=compact&theme=react)](https://github.com/JuliaBadita)
